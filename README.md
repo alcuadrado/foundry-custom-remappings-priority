@@ -2,7 +2,7 @@
 
 This repository reproduces an issue with Foundry (tested with `forge 0.2.0 (2d87c0c 2023-08-04T00:24:28.478338727Z)`).
 
-This project define a custom remapping to an npm package, and forge prioritizes the automatically generated one. This leads to a compilation error.
+This project defines a custom remapping to an npm package, and forge prioritizes the automatically generated one. This leads to a compilation error.
 
 
 ## How to reproduce it
