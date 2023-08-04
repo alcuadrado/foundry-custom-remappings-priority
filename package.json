@@ -1,0 +1,7 @@
+{
+  "name": "npmproject-2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@prb/math": "4.0.1"
+  }
+}
